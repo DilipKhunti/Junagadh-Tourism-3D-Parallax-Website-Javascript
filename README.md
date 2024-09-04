@@ -22,3 +22,6 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/DilipKhunti/Junagadh-Tourism-3D-Parallax-Website-Javascript
+
+   ```bash
+   cd junagadh-tourism
