@@ -10,9 +10,6 @@ Welcome to the Junagadh Tourism website! This project is a showcase of the beaut
 - **Tourism Information**: Detailed sections provide information about the key tourist attractions, historical sites, and cultural heritage of Junagadh.
 - **Easy to Customize**: The code is well-organized and easy to customize, allowing for further development and enhancement.
 
-## Demo
-
-You can view a live demo of the Junagadh Tourism website here. (Replace this with your actual link)
 
 ## Installation
 
