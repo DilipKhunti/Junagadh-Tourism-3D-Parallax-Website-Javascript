@@ -22,10 +22,10 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/DilipKhunti/Junagadh-Tourism-3D-Parallax-Website-Javascript
+   git clone https://github.com/DilipKhunti/Junagadh-Tourism-3D-Parallax-Website-Javascript.git
    ```
    ```
-   cd junagadh-tourism
+   cd Junagadh-Tourism-3D-Parallax-Website-Javascript
    ```
    ```
    open index.html
